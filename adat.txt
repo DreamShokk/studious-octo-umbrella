@@ -1,0 +1,5 @@
+2022.10.10.
+Nagy_Jozsi,jozsinagy@email.hu,151515,60000,2022.10.10.,5
+Nagy_Arpi,nagykaarpi@arpi.hu,165615,175000,2022.10.10.,5
+Kov_Peti,kovpeti@mailservice.com,16586455,56000,2016.02.06.,2
+ASD_Ur,asd@asd.hu,+1556649,150000,2022.10.10.,2
